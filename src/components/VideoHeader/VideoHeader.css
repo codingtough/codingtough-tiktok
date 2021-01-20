@@ -1,0 +1,17 @@
+.videoHeader {
+  position: absolute;
+  top: 1rem;
+  margin-left: 2.5rem;
+}
+
+.videoHeader > img {
+  object-fit: contain;
+  height: 2.5rem;
+}
+
+.videoHeader > p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
